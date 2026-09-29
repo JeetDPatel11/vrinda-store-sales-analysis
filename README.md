@@ -43,6 +43,8 @@ An Excel-based sales analysis and interactive dashboard for Vrinda Store. The pr
 
 The interactive Excel dashboard provides a consolidated view of sales performance and customer/order patterns using charts, PivotTables, filters, and slicers.
 
+![Vrinda Store Sales Dashboard](vrinda-store-dashboard.png)
+
 ## Conclusion
 
 The analysis indicates that women customers aged 30–49 years form a major customer segment, while Maharashtra, Karnataka, and Uttar Pradesh are among the leading contributing states. Amazon, Flipkart, and Myntra are the major sales channels identified in the analysis.
